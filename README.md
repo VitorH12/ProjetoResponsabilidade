@@ -44,15 +44,53 @@ Leia o arquivo [CONTRIBUTING.md](CONTRIBUTING.md) para saber detalhes sobre o no
 # Autores
 
 [Exemplo](https://github.com/testing-library/react-testing-library#contributors)
- {
-      "login": "Miklet",
-      "name": "Paweł Mikołajczyk",
-      "avatar_url": "https://avatars2.githubusercontent.com/u/12592677?v=4",
-      "profile": "https://github.com/Miklet",
+
+{
+  "projectName": "react-testing-library",
+  "projectOwner": "testing-library",
+  "repoType": "github",
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "skipCi": false,
+  "contributors": [
+    {
+      "login": "kentcdodds",
+      "name": "Kent C. Dodds",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1500684?v=3",
+      "profile": "https://kentcdodds.com",
       "contributions": [
-        "code"
+        "code",
+        "doc",
+        "infra",
+        "test"
       ]
     },
+    {
+      "login": "audiolion",
+      "name": "Ryan Castner",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/2430381?v=4",
+      "profile": "http://audiolion.github.io",
+      "contributions": [
+        "doc"
+      ]
+    },
+     {
+      "login": "akashshyamdev",
+      "name": "Akash Shyam",
+      "avatar_url": "https://avatars.githubusercontent.com/u/56759828?v=4",
+      "profile": "https://www.akashshyam.online/",
+      "contributions": [
+        "bug"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "repoHost": "https://github.com"
+}
+
 
 # Licença
 
