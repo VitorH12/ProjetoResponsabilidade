@@ -44,10 +44,15 @@ Leia o arquivo [CONTRIBUTING.md](CONTRIBUTING.md) para saber detalhes sobre o no
 # Autores
 
 [Vítor Hugo](https://github.com/VitorH12)
+
 [Matheus Vinícius](https://github.com/theuzimcs)
+
 [Yuri Rodrigues](https://github.com/Yuri-Rodrigues1)
+
 [Otthon Candido](https://github.com/Otthon-Candido)
+
 [Wesley Cardoso](https://github.com/WesleyCardoso01)
+
 [Felipe Santos](https://github.com/felpsantosf)
 
 # Licença
