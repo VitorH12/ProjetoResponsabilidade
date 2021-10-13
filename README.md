@@ -55,6 +55,8 @@ Leia o arquivo [CONTRIBUTING.md](CONTRIBUTING.md) para saber detalhes sobre o no
 
 [Felipe Santos](https://github.com/felpsantosf)
 
+[Emersu](https://github.com/Emersuu)
+
 # Licença
 
 Este projeto está licenciado sob a Licença MIT,  consulte o arquivo [LICENSE.md](LICENSE.md) para mais detalhes.
