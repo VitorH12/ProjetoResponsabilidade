@@ -15,8 +15,8 @@ RESUMO PROJETO
 
 * [Sobre](#sobre-o-projeto)
 * [Sumário](#índice/sumário)
-* [Tópico 1](#tópico-1)
-* [Tópico 2](#tópico-2)
+* [Requisitos Funcionais](#Requisitos-Funcionais)
+* [Tecnologias Usadas](#Tecnologias-Usadas)
 * [Tópico 3](#tópico-3)
 * [Contribuição](#contribuição)
 * [Autores](#autores)
@@ -24,12 +24,12 @@ RESUMO PROJETO
 * [Agradecimentos](#agradecimentos)
 
 
-# Tópico 1 
+# Requisitos Funcionais
 
 - [x] Teste
 - [ ] Teste
 
-# Tópico 2
+# Tecnologias Usadas
 
 - [GitHub](https://github.com/VitorH12)
 
