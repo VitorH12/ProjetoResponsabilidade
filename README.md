@@ -62,3 +62,6 @@ Este projeto está licenciado sob a Licença MIT,  consulte o arquivo [LICENSE.m
 
 # Agradecimentos
 
+Agradecemos primeiramente aos professores pela oportunidade de compreender melhor a importância do consumo e da produção consciente, e também pela oportunidade de estar passando esse conhecimento para todos. 
+Agradecemos pela colaboração de todos os envolvidos nesse trabalho, que se empenharam ao máximo, para trazer esse conhecimento até vocês.
+Agradecemos pela atenção e participação de todos aqui presentes, e esperamos que todos saiam daqui com uma visão diferente da qual entraram, obrigado.
