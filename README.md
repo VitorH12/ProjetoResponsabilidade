@@ -25,7 +25,7 @@ RESUMO PROJETO
 
 # Sobre
 
-[RESUMO](https://github.com/VitorH12/ProjetoResponsabilidade/blob/main/resumo.doc)
+* [RESUMO](https://github.com/VitorH12/ProjetoResponsabilidade/blob/main/resumo.doc)
 
 # Tecnologias Usadas
 
@@ -34,7 +34,7 @@ RESUMO PROJETO
 
 # Slide
 
-[SLIDE](https://github.com/VitorH12/ProjetoResponsabilidade/blob/main/slide.pptx)
+* [SLIDE](https://github.com/VitorH12/ProjetoResponsabilidade/blob/main/slide.pptx)
 
 # Contribuição
 
