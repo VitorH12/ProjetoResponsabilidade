@@ -16,6 +16,7 @@ RESUMO PROJETO
 * [Sobre](#sobre-o-projeto)
 * [Sumário](#índice/sumário)
 * [Requisitos Funcionais](#Requisitos-Funcionais)
+* [Resumo](#Resumo)
 * [Tecnologias Usadas](#Tecnologias-Usadas)
 * [Slide](#slide)
 * [Contribuição](#contribuição)
@@ -29,13 +30,17 @@ RESUMO PROJETO
 - [x] Teste
 - [ ] Teste
 
+# Resumo
+
+[RESUMO](https://github.com/VitorH12/ProjetoResponsabilidade/blob/main/resumo.doc)
+
 # Tecnologias Usadas
 
 - [GitHub](https://github.com/VitorH12)
 
 # Slide
 
-
+[SLIDE](https://github.com/VitorH12/ProjetoResponsabilidade/blob/main/slide.pptx)
 
 # Contribuição
 
