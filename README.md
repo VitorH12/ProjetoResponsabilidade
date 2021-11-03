@@ -15,8 +15,6 @@ RESUMO PROJETO
 
 * [Sobre](#sobre-o-projeto)
 * [Sumário](#índice/sumário)
-* [Requisitos Funcionais](#Requisitos-Funcionais)
-* [Resumo](#Resumo)
 * [Tecnologias Usadas](#Tecnologias-Usadas)
 * [Slide](#slide)
 * [Contribuição](#contribuição)
@@ -25,18 +23,14 @@ RESUMO PROJETO
 * [Agradecimentos](#agradecimentos)
 
 
-# Requisitos Funcionais
-
-- [x] Teste
-- [ ] Teste
-
-# Resumo
+# Sobre
 
 [RESUMO](https://github.com/VitorH12/ProjetoResponsabilidade/blob/main/resumo.doc)
 
 # Tecnologias Usadas
 
 - [GitHub](https://github.com/VitorH12)
+- [Canva](https://www.canva.com/)
 
 # Slide
 
@@ -60,7 +54,7 @@ Leia o arquivo [CONTRIBUTING.md](CONTRIBUTING.md) para saber detalhes sobre o no
 
 [Felipe Santos](https://github.com/felpsantosf)
 
-[Emersu](https://github.com/Emersuu)
+[Emerson](https://github.com/Emersuu)
 
 # Licença
 
