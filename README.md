@@ -17,7 +17,7 @@ RESUMO PROJETO
 * [Sumário](#índice/sumário)
 * [Requisitos Funcionais](#Requisitos-Funcionais)
 * [Tecnologias Usadas](#Tecnologias-Usadas)
-* [Tópico 3](#tópico-3)
+* [Slide](#slide)
 * [Contribuição](#contribuição)
 * [Autores](#autores)
 * [Licença](#licença)
@@ -33,7 +33,7 @@ RESUMO PROJETO
 
 - [GitHub](https://github.com/VitorH12)
 
-# Tópico 3
+# Slide
 
 
 
